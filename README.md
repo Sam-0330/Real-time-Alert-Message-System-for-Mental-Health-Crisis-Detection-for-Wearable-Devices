@@ -1,4 +1,4 @@
-# Real-Time Mental Health Crisis Detection System
+# Real-Time Alert Message System for Mental Health Crisis Detection System
 
 ## Project Objective
 The objective of this project is to develop an advanced mental health crisis detection system that integrates environmental context detection, facial emotion recognition, and simulated physiological data (such as heart rate and blood pressure) to monitor an individual’s well-being in real-time. The system aims to identify early signs of emotional distress or potential health emergencies and send timely alerts to ensure proactive intervention.
